@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f7ee221d62b595e47b730705d4b88177
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MainCamera: {instanceID: 0}
+  - waypoints: {instanceID: 0}
+  - episode1: {fileID: 6859899151303835246, guid: c32a54c3b8f977f459dfa04a6e7d01a7,
+      type: 3}
+  - episode2: {fileID: 8653667627891573198, guid: d5e48e9010144df40b83c8df0e4223f0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
